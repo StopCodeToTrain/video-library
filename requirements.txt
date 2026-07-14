@@ -1,0 +1,21 @@
+# GUI
+PyQt6>=6.6.0
+
+# 视频处理
+opencv-python-headless>=4.8.0
+scenedetect>=0.6.0
+
+# 人脸识别 (InsightFace - 无需 VS C++ 编译)
+insightface>=0.7.3
+onnxruntime>=1.14.0
+
+# 图像分类
+open-clip-torch>=2.24.0
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.40.0
+Pillow>=10.0.0
+
+# 工具
+numpy>=1.24.0
+tqdm>=4.66.0
