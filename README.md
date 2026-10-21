@@ -104,4 +104,4 @@ video_library/
 
 ## License
 
-MIT
+[MIT License](LICENSE) — Copyright (c) 2026 StopCodeToTrain and contributors.
